@@ -3,7 +3,7 @@
  - Always up for a project
  - [TweetBird][twitter], [Mail][mail]
      - Be prepared to be annoyed by my kotlin fangirling tho.
- - My https://pronoun.is/they
+ - My https://pronoun.is/it
  - AsciiDoc > Markdown
  
 [twitter]: https://twitter.com/romangraef89
