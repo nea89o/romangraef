@@ -5,6 +5,7 @@
      - Be prepared to be annoyed by my kotlin fangirling tho.
  - My https://pronoun.is/it
  - AsciiDoc > Markdown
+ - Discord: nea89#0998
  
 [twitter]: https://twitter.com/romangraef89
 [mail]: mailto:hello@romangraef.com
