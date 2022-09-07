@@ -4,7 +4,6 @@
  - [TweetBird][twitter], [Mail][mail]
      - Be prepared to be annoyed by my kotlin fangirling tho.
  - My https://pronoun.is/it
- - AsciiDoc > Markdown
  - Discord: nea89#0998
  
 [twitter]: https://twitter.com/nea89o
